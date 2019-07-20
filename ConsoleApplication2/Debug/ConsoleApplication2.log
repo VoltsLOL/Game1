@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+c:\users\quintin\source\repos\consoleapplication2\consoleapplication2\game.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\quintin\source\repos\consoleapplication2\consoleapplication2\game.cpp(33): warning C4101: 'event': unreferenced local variable
+c:\users\quintin\source\repos\consoleapplication2\consoleapplication2\game.cpp(191): warning C4101: 'stoneGet': unreferenced local variable
+c:\users\quintin\source\repos\consoleapplication2\consoleapplication2\game.cpp(1235): warning C4101: 'enemy': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\Quintin\source\repos\ConsoleApplication2\Debug\Game.exe
